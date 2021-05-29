@@ -20,7 +20,7 @@ Programming will obviously be the main topic of my blog, but also see different 
 
 ## Follow Me
 
-* Twitter: [@Krish_Shahh](https://twitter.com/Krish_Shahh)
+* Twitter: [@Krish_Shah](https://twitter.com/Krish_Shahh)
 * Instagram: [@krish.shahh](https://www.instagram.com/krish.shahh/)
 * Github: [krish-shahh](https://github.com/krish-shahh)
 * Fiverr: [krishshah2003](https://www.fiverr.com/krishshah2003)

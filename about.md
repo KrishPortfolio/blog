@@ -1,4 +1,4 @@
 ---
 layout: about
-title: [About](https://krishshah.tech/)
+title: About(https://krishshah.tech/)
 ---

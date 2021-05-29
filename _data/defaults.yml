@@ -1,4 +1,5 @@
 # Page default value
 home:
   heading: "Krish Shah's Blog"
+  subheading: ""
   banner: ""

@@ -13,19 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jeffrey Tse's Blog
-email: jeffreytse.mail@gmail.com
-author: jeffreytse
-copyright: Copyright © 2008-2020
+title: Krish Shah's Blog
+email: 2003kshah@gmail.com
+author: krish
+copyright: Copyright © 2018-2021
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a very personal blog. I don't write blogs for anyone, but
-  just record what I do or what I think. So there are many things
-  wrong and you may have different thoughts. It would be nice if I
-  share knowledge and thoughts rather than criticism. It will be
-  great help if you give and teach your knowledge and thoughts to me.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://127.0.0.1:5500/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://krish-blog-site.vercel.app/" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "/favicon.png" # the favicon for your site
 
 # Yat date format
@@ -70,7 +65,7 @@ header_pages:
   - about.md
 
 # Pagination setting
-paginate: 10
+paginate: 5
 
 # Disqus comments
 #disqus:

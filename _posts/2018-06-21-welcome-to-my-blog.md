@@ -18,6 +18,11 @@ Since I started freelancing, many of my clients have asked me “Why don’t you
 
 Programming will obviously be the main topic of my blog, but also see different topics like my opinions on newly released technology and my process through college admissions. Writing has never been a strong suite of mine and I will tell you, I am no expert on any of this. I may be a “perfectionist” but I am nowhere near perfect. I figure it will be a lot of trial and error so please bear with me on any grammar/spelling mistakes (disclaimer – I like to talk with many dashes and parentheses) and please feel free to always share your advice and communicate with me along the way! I hope to inspire you because truthfully, you all inspire me and I am SO looking forward to bringing you a more organized way of living.
 
+## Follow Me
+
+<a href="https://twitter.com/krish_shahh?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @krish_shahh</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 <!---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.

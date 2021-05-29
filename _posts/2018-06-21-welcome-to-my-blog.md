@@ -20,8 +20,10 @@ Programming will obviously be the main topic of my blog, but also see different 
 
 ## Follow Me
 
-<a href="https://twitter.com/krish_shahh?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @krish_shahh</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+Twitter: [@Krish_Shahh](https://twitter.com/Krish_Shahh)
+Instagram: [@krish.shahh](https://www.instagram.com/krish.shahh/)
+Github: [krish-shahh](https://github.com/krish-shahh)
+Fiverr: [krishshah2003](https://www.fiverr.com/krishshah2003)
 
 
 <!---

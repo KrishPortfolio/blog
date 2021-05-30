@@ -3,7 +3,8 @@ layout: post
 title: Last Day of Freshman Year + Summer Plans!
 author: Krish
 categories: summer
-tags: summer, summerplans
+tags: summer
+      summerplans
 ---
 ## Introduction
 Hello Everyone, I am happy to say that today was my final day of Freshman Year and I ready to spend my first summer as a High Schooler. I plan to spend my time wisely by involving myself in more out of school extracurriculars, continue pursuing my hobbies, and also have a small taste of college.
